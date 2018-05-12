@@ -1,0 +1,32 @@
+_repo: Cupid-s-Middleman_31561
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Matthews, Harry B.
+    alias: Matthews, H. B. (Harry B.)
+    gutenberg_agent_id: '35330'
+    url: http://www.gutenberg.org/2009/agents/35330
+covers:
+- cover_type: archival
+  image_path: 31561-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Lent, Edward B. (Edward Burcham)
+    alias: Lent, Edward Burcham
+    birthdate: 1869
+    gutenberg_agent_id: '35329'
+    url: http://www.gutenberg.org/2009/agents/35329
+description: ''
+gutenberg_issued: '2010-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31561'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: Cupid's Middleman
+url: http://www.gutenberg.org/ebooks/31561
